@@ -100,7 +100,7 @@ order BY salary_year_avg DESC
 ```
 ### 🔍 Key Insights:
 
-![Skills Associated with top-paying jobs](D:\Academics EE\projects\sql_project\skills associated with top paying jobs.png)
+![Skills Associated with top-paying jobs](images\skills associated with top paying jobs.png)
 
 - SQL and Excel appear most often, confirming their foundational importance in high-paying roles.
 
