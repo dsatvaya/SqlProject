@@ -259,7 +259,7 @@ ORDER BY
 ```
 ### 🔍 Key Insights:
 Most Optimal Skills:
-![most_optimal_skills](images\Code_Generated_Image.png)
+![Code_Generated_Image.png](images\Code_Generated_Image.png)
 
 - A central trade-off exists between demand and pay: specialized skills like **Spark** command the highest salaries for lower demand, while foundational skills like **SQL and Python** have the highest demand but offer comparatively lower salaries on this list.
 
