@@ -100,7 +100,7 @@ order BY salary_year_avg DESC
 ```
 ### 🔍 Key Insights:
 Skills Associated with top-paying jobs 
-![Skills Associated with top-paying jobs](images\skills_associated_with_top_paying_jobs.png)
+![Skills Associated with top-paying jobs](images/skills_associated_with_top_paying_jobs.png)
 
 - SQL and Excel appear most often, confirming their foundational importance in high-paying roles.
 
@@ -259,7 +259,7 @@ ORDER BY
 ```
 ### 🔍 Key Insights:
 Most Optimal Skills:
-![Code_Generated_Image.png](images\Code_Generated_Image.png)
+![Code_Generated_Image.png](images/Code_Generated_Image.png)
 
 - A central trade-off exists between demand and pay: specialized skills like **Spark** command the highest salaries for lower demand, while foundational skills like **SQL and Python** have the highest demand but offer comparatively lower salaries on this list.
 
